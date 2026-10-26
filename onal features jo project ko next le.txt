@@ -1,0 +1,101 @@
+onal features jo project ko next level par le jayenge
+
+
+
+
+
+
+
+
+
+1. AI-powered shopping assistant
+Recommended
+- Customer ke questions ka product-based answer.
+- Personalized product recommendations.
+- Natural language search, jaise “₹2,000 ke andar black running shoes”.
+- Similar products aur smart suggestions.
+
+
+
+
+
+
+
+
+
+
+
+
+2. Loyalty points, wallet aur rewards
+- Har eligible order par points.
+- Cashback, referral rewards aur membership tiers.
+- Wallet transaction history.
+- Refunds aur wallet balance reconciliation.
+
+
+
+
+
+
+
+
+
+
+
+
+3. Advanced analytics aur business intelligence
+- Daily, weekly aur monthly sales.
+- Profit, commission, refunds aur vendor performance.
+- Best-selling products aur conversion rate.
+- CSV/Excel reports aur scheduled reports.
+
+
+
+
+
+
+
+
+
+
+
+
+4. Smart shipping aur returns
+- Courier API integration aur shipping labels.
+- Real-time tracking aur delivery notifications.
+- Return pickup, exchange aur refund workflows.
+- Vendor-wise shipping charges aur delivery estimates.
+
+
+
+
+
+
+
+
+
+
+
+
+5. Reviews, Q&A aur fraud prevention
+- Verified-purchase reviews, images aur ratings.
+- Customer questions aur vendor replies.
+- Fake reviews aur suspicious orders flag karna.
+- Login abuse, coupon abuse aur payment fraud detection.
+
+
+
+
+
+
+
+
+
+
+
+
+6. Mobile app experience aur PWA
+- Mobile-friendly storefront.
+- Installable website aur app-like navigation.
+- Push notifications, saved cart aur recently viewed products.
+- Fast loading, image optimization aur offline fallback.
